@@ -1,0 +1,5 @@
+{
+  "name": "Day 2: DVAE assessment",
+  "description": "Interactive environment for live demonstration of Dental EMR workflows including scheduling, charting, and billing.",
+  "requestFramePermissions": []
+}
